@@ -54,7 +54,7 @@ Try running this code in a browser or in a console!
 
 Tip: if you receive an error (or nothing), [send us](https://t.me/pwrtelegramgroup) the error message and the `MadelineProto.log` file that was created in the same directory (if running from a browser).  
 
-## Made with MadelineProto
+##Made with MadelineProto
 
 The following open source projects were created using MadelineProto: you can directly install them, or explore the source code as direct examples on how to use MadelineProto's many features!
 
